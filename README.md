@@ -240,4 +240,4 @@ This repository serves as the official landing page for Fallout 4 Creature Follo
 **Get the most recent version of Fallout 4 Creature Follower Mod today!**
 
 ---
-**Last updated:** 2026-11-02 00:20:12 UTC
+**Last updated:** 2026-11-02 07:20:48 UTC
